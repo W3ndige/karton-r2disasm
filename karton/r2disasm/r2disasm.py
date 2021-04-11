@@ -44,7 +44,7 @@ class R2Disasm(Karton):
                 {
                     "type": "feature",
                     "stage": "raw",
-                    "kind": "disasm"
+                    "kind": "r2_disasm"
                 }
             )
 
